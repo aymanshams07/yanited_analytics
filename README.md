@@ -1,2 +1,2 @@
-# yanited_analytics
-Yanitedd analytics
+# yanited_analytics_ML
+Yanited analytics
